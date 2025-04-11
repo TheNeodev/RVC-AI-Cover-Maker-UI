@@ -13,7 +13,7 @@ asteroid-filterbanks==0.4.0
 async-timeout==4.0.3
 attrs==24.2.0
 audio-separator==0.18.0
-audiomentations==0.24.0
+audiomentations==0.31.0
 audioread==3.0.1
 auraloss==0.4.0
 babel==2.16.0
@@ -85,7 +85,7 @@ lameenc==1.7.0
 language-tags==1.2.0
 lazy_loader==0.4
 libf0==1.0.2
-librosa==0.10.0
+librosa==0.10.1
 lightning-utilities==0.11.7
 llvmlite==0.40.1
 local-attention==1.9.14

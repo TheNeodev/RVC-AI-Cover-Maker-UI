@@ -1,6 +1,6 @@
 <div align="center">
   
-# <a href="https://github.com/ShiromiyaG/RVC-AI-Cover-Maker" target="_blank"><img src="https://github.com/ShiromiyaG/RVC-AI-Cover-Maker-WebUI/blob/main/assets/RVCCoverWebUI.png" alt="RVCAICoverMaker"></a>
+# <a href="https://github.com/Eddycrack864/RVC-AI-Cover-Maker-UI" target="_blank"><img src="https://github.com/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCCoverWebUI.png" alt="RVCAICoverMaker"></a>
 
 # Usage
 

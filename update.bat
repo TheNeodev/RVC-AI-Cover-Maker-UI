@@ -2,7 +2,7 @@
 setlocal
 
 REM Define the repository URL
-set REPO_URL=https://github.com/ShiromiyaG/RVC-AI-Cover-Maker-UI
+set REPO_URL=https://github.com/Eddycrack864/RVC-AI-Cover-Maker-UI
 
 REM Navigate to the directory where the script is located
 cd /d %~dp0

@@ -208,8 +208,8 @@ def change_choices():
 
 def full_inference_tab():
     default_weight = names[0] if names else None
-    with gr.Row():
-        with gr.Row():
+    with gr.Row(equal_height=True):
+        with gr.Row(equal_height=True):
             model_file = gr.Dropdown(
                 label=i18n("Voice Model"),
                 info=i18n("Select the voice model to use for the conversion."),
@@ -252,7 +252,7 @@ def full_inference_tab():
                 editable=False,
                 sources="upload",
             )
-            with gr.Row():
+            with gr.Row(equal_height=True):
                 audio = gr.Dropdown(
                     label=i18n("Select Audio"),
                     info=i18n("Select the audio to convert."),
@@ -280,7 +280,7 @@ def full_inference_tab():
                     value=False,
                     interactive=True,
                 )
-                with gr.Row():
+                with gr.Row(equal_height=True):
                     infer_backing_vocals_model = gr.Dropdown(
                         label=i18n("Backing Vocals Model"),
                         info=i18n(
